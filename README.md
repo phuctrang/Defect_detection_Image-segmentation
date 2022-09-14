@@ -1,5 +1,6 @@
 # Image- segmentation
 Demo of using Unet in product defect detection
+Link data: https://drive.google.com/file/d/15MWZ-jrn7gubdzmri6zYEzm2pc3D_-d6/view?usp=sharing (need request)
 + Data normal:
 
 ![1](https://user-images.githubusercontent.com/56389219/190042849-1bb3c88b-e3ed-40bf-aef3-4469e3aae38e.png)
