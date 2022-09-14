@@ -2,7 +2,7 @@
 Demo of using Unet in product defect detection
 + Data normal:
 
-![1](https://user-images.githubusercontent.com/56389219/190042849-1bb3c88b-e3ed-40bf-aef3-4469e3aae38e.png
+![1](https://user-images.githubusercontent.com/56389219/190042849-1bb3c88b-e3ed-40bf-aef3-4469e3aae38e.png)
 
 + Defect data:
 
